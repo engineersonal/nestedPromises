@@ -1,0 +1,19 @@
+{
+  "name": "nestedpromises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node -r esm index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
